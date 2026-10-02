@@ -5,7 +5,9 @@ import { fileURLToPath, URL } from "node:url";
 
 export default defineConfig(({ mode }) => ({
     plugins: [react(), tailwindcss()],
-    base: mode === "production" ? "./" : "/",
+
+    base: mode === "production" ? "/Dumkohray/" : "/",
+
     resolve: {
         alias: {
             "@": fileURLToPath(new URL("./src", import.meta.url)),
