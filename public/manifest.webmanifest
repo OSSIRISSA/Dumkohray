@@ -1,0 +1,9 @@
+{
+    "name": "Dumkohray",
+    "short_name": "Dumkohray",
+    "description": "Local-first novel writing and worldbuilding studio",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#07090c",
+    "theme_color": "#07090c"
+}

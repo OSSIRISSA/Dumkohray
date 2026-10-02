@@ -1,0 +1,37 @@
+DUMKOHRAY SOURCE-AVAILABLE LICENSE v1.0
+Copyright (c) 2026 Dumkohray contributors
+
+Permission is granted, free of charge, to any person obtaining a copy of this
+software and associated documentation files (the "Software") to:
+
+1. view and inspect the source code;
+2. run the Software for personal, educational, research, or internal use;
+3. make private modifications to the Software; and
+4. prepare and submit patches, pull requests, and other contributions to the
+   official Dumkohray project or a repository explicitly designated by the
+   project maintainers for contributions.
+
+REDISTRIBUTION IS NOT PERMITTED.
+
+You may not publish, distribute, sublicense, sell, lease, mirror, repackage,
+provide as a downloadable derivative, or otherwise make copies or modified
+copies of the Software available to third parties, except when submitting a
+contribution as described above. You may not offer the Software or a modified
+version as a hosted service to third parties without separate written
+permission from the copyright holder.
+
+You may create private forks where the hosting service permits access to be
+restricted to you and your collaborators. Public forks are permitted only when
+they are technically required for submitting a contribution to the official
+project and must not be promoted or maintained as an independent distribution.
+
+This license applies only to original Dumkohray code. Third-party dependencies
+remain governed by their respective licenses.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
